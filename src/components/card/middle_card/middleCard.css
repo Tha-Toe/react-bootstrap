@@ -1,0 +1,19 @@
+.latest_text {
+  font-size: 0.8rem;
+}
+.success_img {
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+.list_img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.list_container {
+  width: 80%;
+}

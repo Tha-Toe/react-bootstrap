@@ -1,0 +1,53 @@
+.first_card_bg {
+  background: #f24d6c;
+}
+.column_bar_container {
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.col_bar_1 {
+  height: 40%;
+  width: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.col_bar_2 {
+  height: 60%;
+  width: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.col_bar_3 {
+  height: 70%;
+  width: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.col_bar_4 {
+  height: 40%;
+  width: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.col_bar_5 {
+  height: 60%;
+  width: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.col_bar_6 {
+  height: 40%;
+  width: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.inside_card {
+  width: 100%;
+  height: 200px;
+}

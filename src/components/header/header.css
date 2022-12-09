@@ -1,0 +1,23 @@
+.dashboard_text {
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-font {
+  font-size: 0.9rem;
+  color: #636262;
+}
+.create-button {
+}
+@media (max-width: 500px) {
+  .dashboard_text {
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+}

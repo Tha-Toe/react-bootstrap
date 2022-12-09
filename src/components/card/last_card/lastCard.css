@@ -1,0 +1,28 @@
+.circle_1 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 5px solid yellow;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.activities_list_container {
+  width: 90%;
+  margin-bottom: 20px;
+}
+.cirlce_red {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 5px solid red;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.circle_blue {
+  min-width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 5px solid blue;
+  margin-right: 10px;
+  margin-left: 10px;
+}
